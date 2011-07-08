@@ -15,7 +15,7 @@ namespace GitHubTest
         {
             InitializeComponent();
 
-            //I made some changes, again
+            //This is my copy now
         }
     }
 }
